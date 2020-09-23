@@ -3,35 +3,35 @@
 
 _translation = {
     'zh': {
-        'start': 'Hi %(user)s，欢迎光临🎊\n\n使用 /help 查看使用方法。',
+        'start': 'Hi %(user)s，歡迎光臨🎊\n\n輸入 /help 查看使用方法。',
         'help': '''*TG Downloader Bot 使用方法*
-1. GIF 表情：
-☛ 直接发送 `GIF 表情`。
-☚ 打包的 `MP4` 和 `GIF` 文件。
+1. GIF 圖片：
+☛ 直接傳送 `GIF 圖片`。
+☚ 打包的 `MP4` 和 `GIF` 檔案。
 
-2. 静态贴纸：
-☛ 直接发送`静态贴纸`。
-☚ `PNG` 文件。
+2. 靜態貼圖：
+☛ 直接傳送`靜態貼圖`。
+☚ `PNG` 檔案。
 
-3. 动态贴纸：
-☛ 机器资源有限尚未支持。
+3. 動態貼圖：
+☛ 伺服器資源有限尚未提供。
 
-4. 静态贴纸集：
-☛ 直接发送`静态贴纸`，点击下方按钮「下载完整贴纸集」。
-☛ 直接发送`静态贴纸集链接`，如 [EmmaWatsonStickers](https://t.me/addstickers/EmmaWatsonStickers)。
-☚ 打包的 `PNG` 文件。
+4. 靜態貼圖合集：
+☛ 直接傳送`靜態貼圖`，點選下方按鈕「下載完整貼圖合集」。
+☛ 直接傳送`靜態貼圖合集連結`，如 [EmmaWatsonStickers](https://t.me/addstickers/EmmaWatsonStickers)。
+☚ 打包的 `PNG` 檔案。
 
-⚠︎ 下载贴纸集十分耗费资源，如非必要还请挑选后逐个下载。对此不胜感激。
+⚠︎ 下載貼圖合集非常耗費資源，如非必要還請挑選後逐個下載。對此不勝感激。
 
-请尽情使用 :)''',
-        'limit_exceed': '今日用量已超出 %(limit)s，请明天再试',
-        'kb_sticker_set': '下载完整贴纸集',
-        'unsupport': '资源有限尚未支持，请自行下载转换',
-        'zip_preparing': '正在准备文件，时间较长请稍等',
-        'zip_packing': '等待文件打包，时间较长请稍等',
-        'zip_timeout': '等待超时，请稍后重试',
-        'exec_error': '执行错误，请自行下载转换',
-        'file_size_exceed': '文件过大，请自行下载转换',
+請盡情使用 :)''',
+        'limit_exceed': '今日用量已超出 %(limit)s，請明天再試',
+        'kb_sticker_set': '下載完整貼圖合集',
+        'unsupport': '資源有限尚未支援，請自行下載轉換',
+        'zip_preparing': '正在準備檔案，所需時間較長，請等待',
+        'zip_packing': '等待檔案打包，所需時間較長，請等待',
+        'zip_timeout': '等待超時，請稍後重試',
+        'exec_error': '執行錯誤，請自行下載轉換',
+        'file_size_exceed': '檔案過大，請自行下載轉換',
     },
 
     'en': {
