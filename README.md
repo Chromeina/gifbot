@@ -47,7 +47,7 @@ ffmpeg -version
 ### 3. Repository
 
 ```
-git clone https://github.com/ryanfwy/gifbot.git
+git clone https://github.com/Chromeina/gifbot.git
 ```
 
 It is highly recommend you to install python `requirements.txt` under the virtual environment.
